@@ -130,7 +130,6 @@ class ViewController: UIViewController {
     }
     
     @IBAction func btnequal(Sender: UIButton){
-//        print(Sender.tag)
         varNumber2 = valuechange()
         
             switch varOperator {
